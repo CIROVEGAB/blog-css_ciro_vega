@@ -1,0 +1,47 @@
+@font-face{
+    font-family: Comic Sans MS;
+    src: url(../font/comicz.ttf);
+}
+.logo-img {
+  width: 100px;
+}
+.colores{
+  background-color: #B6FA7A;
+}
+.alineacion{
+  padding-top:30px;
+}
+.pequeño{
+  height:10%;
+}
+.logos-img {
+  width: 70px;
+}
+.logo1-img {
+  width: 48%;
+}
+
+.logo2-img {
+  width: 97%;
+}
+.foto{
+  width:150px;
+}
+.cinema-body {
+  background-color: #B6FA7A;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  width: 100%;
+  height: 100%;
+  font-family: Comic Sans MS;
+  font-size: 1.5em;
+  color:black ;
+}
+.alto-cont{
+  height: 520px;
+}
+#comentario{
+  border: solid white;
+
+}
