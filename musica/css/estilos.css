@@ -1,0 +1,66 @@
+@font-face{
+    font-family: Comic Sans MS;
+    src: url(../font/comicz.ttf);
+}
+.body-blog{
+  background-color: #B6FA7A;
+  font-family: Comic Sans MS;
+  font-size: 1.5em;
+  color:black ;
+}
+.logo-img {
+  width: 100px;
+}
+.header1 {
+  background-color: #B6FA7A;
+  min-height: 10%;
+  border: none;
+}
+.fijar{
+float: right;
+
+}
+.boton-grande{
+  width: 100%;
+  height:50px;
+}
+.barra-alto{
+  padding:5px;
+}
+.cont-filas{
+    background-color: #B6FA7A;
+    border:2px solid white;
+}
+.cont-filas-100{
+    background-color: #B6FA7A;
+    border:2px solid white;
+    min-height:1172px;
+}
+.text {
+    margin-top: 20px;
+  color: black;
+}
+.altos{
+  height:100%;
+}
+.img-artista {
+  width:300px;
+  padding: 6px;
+  margin-top: 68px;
+}
+.text-areas{
+ padding-top:20px;
+}
+@media (max-width: 770px) {
+  .img-artista {
+
+    width:300px;
+    padding: 6px;
+    margin-top: 15px;
+  }
+  .cont-filas-100{
+      background-color: #B6FA7A;
+      border:2px solid black;
+      min-height:500px;
+  }
+}
